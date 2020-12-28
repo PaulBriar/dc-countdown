@@ -1,0 +1,16 @@
+{
+  "name": "devcareers-countdown",
+  "version": "1.0.0",
+  "description": "countdown timer for devcareers",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Briar",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
